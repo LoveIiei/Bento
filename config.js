@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'ChatGpt',
+			icon: 'bot',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '3',
