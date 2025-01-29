@@ -62,7 +62,7 @@ const CONFIG = {
 			name: 'Amazon',
 			icon: 'shopping-bag',
 			link: 'https://amazon.com/',
-		}
+		},
 		{
 			id: '3',
 			name: 'Bilibili',
