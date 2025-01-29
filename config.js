@@ -71,8 +71,8 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
+			name: 'Quercus',
+			icon: 'graduation-cap',
 			link: 'https://q.utoronto.ca/',
 		},
 		{
